@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
